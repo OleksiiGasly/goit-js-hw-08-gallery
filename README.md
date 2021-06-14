@@ -1,5 +1,12 @@
 # goit-js-hw-08-gallery
 
+oleksiigasly.github.io/goit-js-hw-08-gallery/
+
+https://github.com/OleksiiGasly/goit-js-hw-08-gallery
+
+
+
+
 Разбей задание на несколько подзадач:
 
 Создание и рендер разметки по массиву данных galleryItems из app.js и предоставленному шаблону.
